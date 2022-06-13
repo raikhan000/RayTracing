@@ -16,3 +16,6 @@ clarifying the picture with each pass) rendering.
 6. By default, the image should be rendered in 512x512 resolution (to change
 the resolution ‘-w 1024’ in the command line. The image should be square).  
 # Output 
+![alt text](rayTracing.png)
+# Code
+visit https://www.shadertoy.com/view/NdXSWr  
